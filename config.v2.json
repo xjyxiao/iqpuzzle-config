@@ -1,5 +1,5 @@
 {
   "paid_enabled": true,
   "show_onboarding_intro": true,
-  "paywall_variant": "free_trial"
+  "paywall_variant": "paid_trial"
 }
